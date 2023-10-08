@@ -20,7 +20,3 @@
 <p align="left">- Faço Ciência da Computação na universidade Pitágoras de Uberlândia
 <br>- Estou aprendendo desenvolvimento  web
 <br>- Estou aprendendo React </p>
-
-<img src="https://raw.githubusercontent.com/ketlynlaury/ketlynlaury/output/snake.svg" alt="Snake animation" />
-
-###
