@@ -17,6 +17,6 @@
 
 ###
 <h2 align="left"> 📰. Me conheça </h2>
-<p align="left">- Faço Ciência da Computação na universidade Pitágoras de Uberlândia
+<p align="left">- Faço Ciência da Computação na universidade Pitágoras
 <br>- Estou aprendendo desenvolvimento  web
 <br>- Estou aprendendo React </p>
