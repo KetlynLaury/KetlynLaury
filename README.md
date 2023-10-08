@@ -1,5 +1,5 @@
 <div align="center">
-<img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2x5d2JzaDhvMTRwd2Vib2dubWlqMmplbGdqcXNteXZqOXM5eHMyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/57nf4oyyMmZ2L9QqJN/giphy.gif" />
+<img height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2x5d2JzaDhvMTRwd2Vib2dubWlqMmplbGdqcXNteXZqOXM5eHMyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/57nf4oyyMmZ2L9QqJN/giphy.gif" />
 <div>
   
 <h1> Hello world! Eu sou a Ketlyn Laury</h1>
