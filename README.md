@@ -18,5 +18,4 @@
 ###
 <h2 align="left"> 📰. Me conheça </h2>
 <p align="left">- Faço Ciência da Computação
-<br>- Estou aprendendo desenvolvimento  web
-<br>- Estou aprendendo React </p>
+<br>- Aprendendo desenvolvimento  web com foco em backend com python </p>
