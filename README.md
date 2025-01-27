@@ -17,5 +17,5 @@
 
 ###
 <h2 align="left"> 📰. Me conheça </h2>
-<p align="left">- Faço Ciência da Computação
-<br>- Aprendendo desenvolvimento  web com foco em backend com python </p>
+<p align="left">- Atualmente estou cursando Sistemas da Informação na Universidade Federal de Uberlândia
+<br>- Aprendendo desenvolvimento web com foco em backend com java </p>
