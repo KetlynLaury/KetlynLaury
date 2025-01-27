@@ -9,7 +9,7 @@
 
 <h2 align="left">👩‍💻. Tecnologias</h2>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,python" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,python,java" />
 </p>
 
 ###
